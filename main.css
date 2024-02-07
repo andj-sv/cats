@@ -1,0 +1,28 @@
+body {
+    color: #333333;
+
+    margin: auto 20%;
+}
+
+header {
+    text-align: center;
+}
+
+a {
+    color: inherit;
+}
+
+.article-cat {
+    margin-top: 50px;
+}
+
+.link-head-menu {
+    text-align: right;
+    font-style: italic;
+    font-size: smaller;
+}
+
+.developer {
+    margin-top: 100px;
+    text-align: center;
+}
